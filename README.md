@@ -4,7 +4,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat.
 
-[🔗 Clique aqui para acessar]()
+[🔗 Clique aqui para acessar](https://pedrosouza09.github.io/NLW6_BeautySalon_Origin_Pedro/)
 
 ## 🛠 Tecnologias
 
